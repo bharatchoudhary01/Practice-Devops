@@ -1,3 +1,7 @@
 Devops-Practice
+<<<<<<< HEAD
 Temporary Work
 Main change
+=======
+Feature cchnage
+>>>>>>> feature
